@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="A_banner_features_&quot;NASIM_BAYATI&quot;_displayed_in_bold.png" alt="Nasim Bayati Banner" width="100%" />
+</p>
+
+
 # 👩‍💻 Nasim Bayati
 
 **Software Development Student | Back-End Enthusiast | Data Handling & Analysis | Python, Java, C++, SQL**
