@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A_banner_features_&quot;NASIM_BAYATI&quot;_displayed_in_bold.png" alt="Nasim Bayati Banner" width="100%" />
+  <img src="TheBanner.png" alt="Nasim Bayati Banner" width="100%" />
 </p>
 
 
