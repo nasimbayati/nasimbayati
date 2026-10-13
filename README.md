@@ -24,9 +24,9 @@ The cloud projects are learning and demonstration environments. Their documentat
 
 I'm also developing and documenting a personal toolkit:
 
-- **CallScribe + Prompter:** local transcription, optional AI suggestions, and a file-based handoff to a separate desktop display. The Prompter export is optional.
+- **CallScribe + Prompter:** local speech-to-text using Whisper models through `faster-whisper`, with an `mlx-whisper` backend for Apple Silicon Macs, optional AI suggestions, and a file-based handoff to a separate desktop display. The Prompter export is optional.
 - **Service Selector:** a workbench for structured discovery, catalog-based recommendations, architecture discussions, and audience-aware outputs. I plan to share a focused architecture case study while keeping the full implementation private.
-- **Whisperer:** an early meeting-assistance prototype exploring capture contracts, replay, and evidence grounding. Its broader copilot architecture remains work in progress.
+- **Whisperer:** a separate early meeting-assistance prototype exploring capture contracts, replay, and evidence grounding. Its broader copilot architecture remains work in progress. This project is distinct from the Whisper speech-to-text models used in CallScribe.
 - **Typewriter + Kiwi:** a new personal rebuild of two desktop apps for daily tasks and focus sessions, with shared state and synchronization to dated Markdown notes for Obsidian.
 - **Notebook & Planner Builder:** configurable Python generators for linked study notebooks and dated planners.
 
