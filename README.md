@@ -27,6 +27,7 @@ I'm also developing and documenting a personal toolkit:
 - **CallScribe + Prompter:** local transcription, optional AI suggestions, and a file-based handoff to a separate desktop display. The Prompter export is optional.
 - **Service Selector:** a workbench for structured discovery, catalog-based recommendations, architecture discussions, and audience-aware outputs. I plan to share a focused architecture case study while keeping the full implementation private.
 - **Whisperer:** an early meeting-assistance prototype exploring capture contracts, replay, and evidence grounding. Its broader copilot architecture remains work in progress.
+- **Typewriter + Kiwi:** a new personal rebuild of two desktop apps for daily tasks and focus sessions, with shared state and synchronization to dated Markdown notes for Obsidian.
 - **Notebook & Planner Builder:** configurable Python generators for linked study notebooks and dated planners.
 
 I distinguish AI-assisted development from AI features inside an application. I focus on defining the workflow, connecting the components, reviewing generated work, and verifying behavior.
