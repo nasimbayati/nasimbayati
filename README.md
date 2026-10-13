@@ -1,62 +1,43 @@
-<p align="center">
-  <img src="TheBanner.png" alt="Nasim Bayati Banner" width="100%" />
-</p>
+# Nasim Bayati
 
-# 👩‍💻 Nasim Bayati
+**Cloud & AI Automation | Building toward Cloud Engineering and Solutions Architecture**
 
-**Software Development Student | Back-End Developer in Training | Data & Cloud Enthusiast | Python, Java, SQL**
+I build practical tools that connect applications, organize technical information, and make complex workflows easier to use. My work combines hands-on AWS labs, application development, and experiments with AI-assisted automation.
 
----
+I'm developing my path toward cloud engineering and solutions architecture, with a particular interest in reliable integrations, clear technical explanations, and useful ways to enable people with AI.
 
-🎯 **About Me**
+## Selected projects
 
-Hi! I’m **Nasim Bayati**, a detail-oriented and passionate software development student based in Round Rock, TX.  
-I am pursuing my **Bachelor of Applied Science (BASc) in Software Development** at Austin Community College and building skills to become a **Back-End / Cloud Developer**.  
+| Project | What I explored |
+| --- | --- |
+| [ECS Fargate Deployment & Recovery Lab](https://github.com/nasimbayati/devops-ecs-fargate-alb-deployment) | Container deployment with ECR, an Application Load Balancer, health checks, and recovery experiments. |
+| [AWS CI/CD Pipeline](https://github.com/nasimbayati/aws-devops-cicd-helloworld) | Building and delivering a Java application with CodeBuild, S3, CodeDeploy, and EC2. |
+| [Mattermost on AWS](https://github.com/nasimbayati/project1-mattermost-aws) | A two-tier VPC lab with an application server and a database in separate network layers. |
+| [AWS Incident Runbook](https://github.com/nasimbayati/AWS-Incident-Runbook) | A desktop tool for guided incident-response steps, notes, and exports. |
+| [InsightFlow](https://github.com/nasimbayati/Insightflow) | CSV validation, cleaning, analysis, and explanations, with an optional AI narrative layer. |
+| [OS Teaching Tools](https://github.com/nasimbayati/os-teaching-tools) | Five interactive simulators for CPU scheduling, deadlock, disk scheduling, page replacement, and memory concepts. |
+| [Neon Ark Capstone](https://github.com/nasimbayati/cosc4301-neon-ark-capstone) | A Spring Boot API, PostgreSQL persistence, Flyway migrations, and a Java HTTP client. |
 
-- 🔹 Strong foundation in **Python, Java, C++, and SQL**
-- 🔹 Hands-on experience with **Oracle Database, SQL Server, and PL/SQL**
-- 🔹 Skilled in **data handling, reporting, and visualization**
-- 🔹 Familiar with **AWS & GCP fundamentals** and Linux/Unix systems
-- 🔹 U.S. Permanent Resident (Green Card) — ✅ **No sponsorship required**
-- 🔹 Open to **internships, projects, and collaboration opportunities**
+The cloud projects are learning and demonstration environments. Their documentation records the work; linked repositories do not imply that deployments are currently running.
 
----
+## AI integration and workflow automation
 
-🛠️ **Technical Skills**
+I'm also developing and documenting a personal toolkit:
 
-- **Languages**: Python (NumPy, Pandas, SciPy), Java, C, C++, PL/SQL, SQL  
-- **Databases**: Oracle SQL Developer, MS SQL Server, Relational Databases  
-- **Data Work**: Data Cleaning, Data Reporting, Data Visualization  
-- **Cloud**: AWS & GCP Fundamentals  
-- **Systems**: Linux, Unix  
-- **Tools**: Git, GitHub, Jupyter Notebook, MS Office Suite  
-- **Other**: Agile Project Management, Scientific Python  
+- **CallScribe + Prompter:** local transcription, optional AI suggestions, and a file-based handoff to a separate desktop display. The Prompter export is optional.
+- **Service Selector:** a workbench for structured discovery, catalog-based recommendations, architecture discussions, and audience-aware outputs. I plan to share a focused architecture case study while keeping the full implementation private.
+- **Whisperer:** an early meeting-assistance prototype exploring capture contracts, replay, and evidence grounding. Its broader copilot architecture remains work in progress.
+- **Notebook & Planner Builder:** configurable Python generators for linked study notebooks and dated planners.
 
----
+I distinguish AI-assisted development from AI features inside an application. I focus on defining the workflow, connecting the components, reviewing generated work, and verifying behavior.
 
-📚 **Current Learning Goals**
+## Technologies used across my projects
 
-- 🚀 Advancing in **Back-End Web Development**
-- ⚡ Learning **Flask** & modern **API development**
-- 🗄️ Improving **SQL/PLSQL optimization & advanced database management**
-- 🌩️ Building stronger knowledge in **Cloud & DevOps tools**
+- **Cloud and deployment:** AWS, Cloudflare Workers, Docker, Linux, Git, GitHub
+- **Application development:** Python, Java, JavaScript, TypeScript, React, Spring Boot, Flask, Electron
+- **Data and persistence:** SQL, PostgreSQL, Pandas, NumPy, CSV and JSON workflows
+- **AI integration:** local speech-to-text, configurable model endpoints, structured context, evidence handling, and human review
 
----
+## Connect
 
-📂 **Featured Projects**
-
-- [🚦 Dangerous Intersections Crash Risk App](https://github.com/nasimbayati/dangerous-intersections) — ML-powered Flask app predicting crash risk using Austin traffic data.  
-- [📊 Statistical Analyzer](https://github.com/nasimbayati/statistical_analyzer) — Python package for basic & advanced statistical operations.  
-- [📈 Styled Dashboard](https://github.com/nasimbayati/styled_dashboard) — Interactive dashboards for clean, customizable data analytics.  
-- [📚 Basic Data Tools](https://github.com/nasimbayati/basic_data_tools) — Modular Python utilities for data manipulation & reporting.  
-
----
-
-📬 **Let’s Connect**
-
-- 🌐 [GitHub](https://github.com/nasimbayati)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nasim-bayati-13359575/)  
-
----
-
-⭐ _Always learning. Always improving. Let’s build something great together!_
+[LinkedIn](https://www.linkedin.com/in/nasim-bayati-13359575/) · [GitHub](https://github.com/nasimbayati)
